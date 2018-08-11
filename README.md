@@ -4,7 +4,7 @@ Julia implementation of Pentti Kanerva's sparse distributed memory.
 
 The essential content of this repository is an IJulia/Jupyter notebook with code to accompany the article ["The Mind Wanders,"](http://bit-player.org/2018/the-mind-wanders) published in July 2018 on [bit-player.org](http://bit-player.org). The primary reference for all the underlying ideas is the following book: Kanerva, Pentti. 1988. _Sparse Distributed Memory_. Cambridge, Mass.: MIT Press.
 
-Written for [Julia](https://julialang.org/) version 0.6.3.
+The notebook file sdm.ipynb was written for [Julia](https://julialang.org/) version 0.6.3. The file sdmj7.ipynb is updated to run under Julia 0.7 or 1.0.
 
 ### IMPLEMENTATION NOTES
 
